@@ -1,3 +1,4 @@
+Hi, I'm Lian 👋
 BSCS student building full-stack web systems with React, ASP.NET Core, and MSSQL.
 
 Currently working on PAWRTAL — a pet care management and veterinary communication platform, developed as a thesis project for VM Veterinary Clinic. Also building StockSense, a smart inventory management system.
