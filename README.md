@@ -1,16 +1,20 @@
-## Hi there 👋
+BSCS student building full-stack web systems with React, ASP.NET Core, and MSSQL.
 
-<!--
-**LianSavellano/LianSavellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on PAWRTAL — a pet care management and veterinary communication platform, developed as a thesis project for VM Veterinary Clinic. Also building StockSense, a smart inventory management system.
 
-Here are some ideas to get you started:
+🔧 Tech I work with
+Frontend: React (Vite), JavaScript
+Backend: ASP.NET Core, C#
+Database: MSSQL, Entity Framework Core
+Other: Git, Cloudflare Tunnel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 What I'm building
+PAWRTAL — appointment scheduling, medical records, vaccination tracking, and in-app messaging between pet owners and vet clinics
+StockSense — inventory management system with a focus on practical, real-world operational workflows
+
+📌 Currently
+Finishing my BSCS degree while building real-world systems for actual clients, not just coursework.
+
+📫 Reach me
+Email: liansavellano1@gmail.com
+Linkedin: https://www.linkedin.com/in/lian-savellano-56a39a3b2 
